@@ -1,0 +1,6 @@
+Sentiment Analysis Dataset.csv
+__pycache__
+env
+*.pyc
+twitter_credentials.json
+twitter_credentials.py
